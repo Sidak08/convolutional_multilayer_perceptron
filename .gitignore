@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Dataset and training output
+data/
+artifacts/
+*.pt
+*.pth
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
+
